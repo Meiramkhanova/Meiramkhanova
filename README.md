@@ -1,8 +1,5 @@
  👋 Hi! My name is Adina. When i grow up i wanna be a Hokage in IT world. Because I wanna make the world better through coding.
 
- ⚡ Fun fact: still not pass the test for chunin
- 
- 🌱 I’m currently learning frontend development. 
  
  📫 How to reach me: adinaone04@gmail.com
 <!--
